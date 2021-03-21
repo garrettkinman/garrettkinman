@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Garrett, a graduating computer engineering student (BEng) at McGill University, <!-- TODO: finish tagline -->
+I'm Garrett, a graduating computer engineering student at McGill University.
 
 ### What I'm interested in
 <!-- talk about interests, particularly technical -->
@@ -10,6 +10,7 @@ I'm Garrett, a graduating computer engineering student (BEng) at McGill Universi
 * Domain-specific architectures
 * RISC-V
 * Interesting new tools/languages (e.g., Julia, Rust, WebAssembly...)
+* Systems level thinking
 
 ### What I'm currently working on
 <!-- talk about current projects, studies, goals -->
@@ -48,5 +49,5 @@ I'm Garrett, a graduating computer engineering student (BEng) at McGill Universi
 <!-- talk about upcoming job, grad school, projects, studies, long-term... -->
 * Third internship @ Analog Devices — Embedded software for autonomous vehicles/robots
 * MSc in Electrical Engineering @ McGill University — Embedded CNN applications on low-power RISC-V ML accelerator
-* Probably a lot more online courses, tbh
+* A lot more online courses
 * One day, hopefully using embedded ML and intelligent control as part of a climate solution
