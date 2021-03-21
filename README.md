@@ -23,6 +23,7 @@ I'm Garrett, a graduating computer engineering student at McGill University.
   * Embedded Systems
   * Linear Systems & Control
   * Computer Architecture
+  * Reinforcement Learning
 
 ### How I got here
 <!-- talk about past experiences, internships, courses -->
