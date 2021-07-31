@@ -13,9 +13,8 @@ I'm Garrett, a recent graduate in computer engineering.
 
 ### What I'm currently working on
 <!-- talk about current projects, studies, goals -->
-* Embedded software internhip (for LiDAR applications)
+* Embedded software internship (for LiDAR applications)
 * Cool Climate data science project (using Julia)
-* Learning Rust
 
 ### Where I'm headed next
 <!-- talk about upcoming job, grad school, projects, studies, long-term... -->
