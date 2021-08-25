@@ -7,6 +7,7 @@ I'm Garrett, a recent graduate in computer engineering.
 * Sustainability
 * Embedded ML
 * Reinforcement learning and intelligent control
+* Computer vision (including depth vision)
 * RISC-V
 * Interesting new tools/languages (e.g., Julia, Rust, WebAssembly...)
 * Systems-level thinking
@@ -19,5 +20,4 @@ I'm Garrett, a recent graduate in computer engineering.
 ### Where I'm headed next
 <!-- talk about upcoming job, grad school, projects, studies, long-term... -->
 * MSc in Electrical Engineering (embedded CNN applications on low-power RISC-V ML processor)
-* Automated indoor garden project
 * One day, hopefully using embedded ML and intelligent control as part of a climate solution
