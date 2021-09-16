@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Garrett, a recent graduate in computer engineering.
+I'm Garrett, a grad student in embedded machine learning.
 
 ### What I'm interested in
 <!-- talk about interests, particularly technical -->
