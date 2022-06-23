@@ -13,6 +13,11 @@ I'm a grad student in embedded systems and machine learning.
 * RISC-V
 * Julia, Rust, & WebAssembly
 
+### What I've done previously
+* BEng in computer engineering
+* Deep learning & computer vision w/ PyTorch
+* LoRa messenger w/ ESP32
+
 ### What I'm currently working on
 <!-- talk about current projects, studies, goals -->
 * MSc in Electrical Engineering
