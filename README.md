@@ -8,8 +8,8 @@ I'm a grad student in embedded systems and machine learning.
 * Embedded ML
 * Reinforcement learning
 * Computer vision
+* Internet of Things
 * Robotics
-* IoT
 * RISC-V
 * Julia, Rust, & WebAssembly
 
