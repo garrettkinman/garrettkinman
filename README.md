@@ -1,22 +1,24 @@
 ### Hi there 👋
 
-I'm Garrett, a grad student in embedded machine learning.
+I'm a grad student in embedded systems and machine learning.
 
 ### What I'm interested in
 <!-- talk about interests, particularly technical -->
 * Sustainability
 * Embedded ML
-* Reinforcement learning and intelligent control
-* Computer vision (including depth vision)
+* Reinforcement learning
+* Computer vision
+* Robotics
+* IoT
 * RISC-V
-* Interesting new tools/languages (e.g., Julia, Rust, WebAssembly...)
-* Systems-level thinking
+* Julia, Rust, & WebAssembly
 
 ### What I'm currently working on
 <!-- talk about current projects, studies, goals -->
-* MSc in Electrical Engineering (embedded CNN applications on low-power RISC-V ML processor)
-* Cool Climate data science project (using Julia)
+* MSc in Electrical Engineering
+* Low-cost water level sensors for Arctic IoT
+* Plant leaf disease detector
 
 ### Where I'm headed next
 <!-- talk about upcoming job, grad school, projects, studies, long-term... -->
-* One day, hopefully using embedded ML and intelligent control as part of a climate solution
+* One day, hopefully using embedded systems and ML for sustainability
