@@ -20,7 +20,7 @@ I'm a grad student in embedded systems and machine learning.
 
 ### What I'm currently working on
 <!-- talk about current projects, studies, goals -->
-* MSc in Electrical Engineering
+* MSc in electrical engineering
 * Low-cost water level sensors for Arctic IoT
 * Plant leaf disease detector
 
