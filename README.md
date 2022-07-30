@@ -11,7 +11,7 @@ I'm a grad student in embedded systems and machine learning.
 * Internet of Things
 * Robotics
 * RISC-V
-* Julia, Rust, & WebAssembly
+* New languages (e.g., Julia, Rust, Nim)
 
 ### What I've done previously
 * BEng in computer engineering
