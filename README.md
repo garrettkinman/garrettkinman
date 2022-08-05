@@ -15,14 +15,14 @@ I'm a grad student in embedded systems and machine learning.
 
 ### What I've done previously
 * BEng in computer engineering
-* Deep learning & computer vision w/ PyTorch
+* Deep learning & computer vision w/ PyTorch, Flux.jl
 * LoRa messenger w/ ESP32
 
 ### What I'm currently working on
 <!-- talk about current projects, studies, goals -->
 * MSc in electrical engineering
 * Low-cost water level sensors for Arctic IoT
-* Plant leaf disease detector
+* Genetic algorithm-based optimizer for neural networks
 
 ### Where I'm headed next
 <!-- talk about upcoming job, grad school, projects, studies, long-term... -->
