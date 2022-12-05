@@ -6,7 +6,6 @@ I'm a grad student in embedded systems and machine learning.
 <!-- talk about interests, particularly technical -->
 * Sustainability
 * Embedded ML
-* Reinforcement learning
 * Artificial Intelligence of Things (AIoT)
 * RISC-V
 * New languages (e.g., Julia, Nim)
