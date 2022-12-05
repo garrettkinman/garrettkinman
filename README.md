@@ -25,4 +25,4 @@ I'm a grad student in embedded systems and machine learning.
 
 ### Where I'm headed next
 <!-- talk about upcoming job, grad school, projects, studies, long-term... -->
-* One day, hopefully using embedded systems and ML for sustainability
+* Embedded AI/ML Research Engineer
