@@ -9,7 +9,7 @@
 * BEng in computer engineering
 * MSc in electrical engineering
 * Deep learning & computer vision w/ PyTorch, Flux.jl
-* RL-based packet scheduling for low-cost water level sensors for Arctic IoT
+* RL-based direct-to-satellite packet scheduling for low-cost, low-power water level sensors for Arctic IoT
 
 ### What I'm currently working on
 <!-- talk about current projects, studies, goals -->
