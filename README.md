@@ -1,27 +1,23 @@
-### Hi there
-
-I'm a grad student in embedded systems and machine learning.
-
 ### What I'm interested in
 <!-- talk about interests, particularly technical -->
 * Sustainability
 * Embedded ML
-* AIoT
 * RISC-V
 * New languages (e.g., Julia, Nim)
 
 ### What I've done previously
 * BEng in computer engineering
+* MSc in electrical engineering
 * Deep learning & computer vision w/ PyTorch, Flux.jl
-* LoRa messenger w/ ESP32
+* RL-based packet scheduling for low-cost water level sensors for Arctic IoT
 
 ### What I'm currently working on
 <!-- talk about current projects, studies, goals -->
-* MSc in electrical engineering
-* RL-based packet scheduling for low-cost water level sensors for Arctic IoT
+* Embedded ML research engineer
 * Genetic algorithm-based optimizer for neural networks using Flux.jl
 * Embedded Nim using Ratel
 
 ### Where I'm headed next
 <!-- talk about upcoming job, grad school, projects, studies, long-term... -->
-* Embedded AI/ML Research Engineer
+* TinyML inference library with Nim
+* (Hopefully) Tiny Spiking Neural Networks (TinySNNs, if you will)
